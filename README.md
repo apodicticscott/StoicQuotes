@@ -1,2 +1,2 @@
 # StoicQuotes
-'Stoic' is a quote app where the user can shuffle through stoic philosopher's famous quotes for daily affirmation.
+![New Project](https://user-images.githubusercontent.com/102004001/209450682-f6c471be-3c81-4157-9c84-d97484323d79.jpg)
